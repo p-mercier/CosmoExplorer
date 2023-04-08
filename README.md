@@ -1,6 +1,7 @@
 # CosmoExplorer
 - Clone the repository
 - Open CosmoDeviceExplorer.xcodeproj
+- In 'Signing and Capabilities', Select a team
 - Launch on an iOS device
 
 # Cosmo devices
